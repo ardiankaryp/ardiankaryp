@@ -2,7 +2,7 @@
 - 👀 I’m interested in business strategic
 - 🌱 I’m currently learning HTML & CSS
 - 💞️ I’m looking to collaborate on Programing Communities
-- 📫 barrel35.squad@gmail.com
+- 📫 ask@ardiankaryp.my.id
 
 <!---
 ardiankaryp/ardiankaryp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
